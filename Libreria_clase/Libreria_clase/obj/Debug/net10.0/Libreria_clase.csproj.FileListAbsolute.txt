@@ -1,0 +1,11 @@
+C:\Users\Administrator\OneDrive\Escritorio\Libreria_clase\Libreria_clase\bin\Debug\net10.0\Libreria_clase.deps.json
+C:\Users\Administrator\OneDrive\Escritorio\Libreria_clase\Libreria_clase\bin\Debug\net10.0\Libreria_clase.dll
+C:\Users\Administrator\OneDrive\Escritorio\Libreria_clase\Libreria_clase\bin\Debug\net10.0\Libreria_clase.pdb
+C:\Users\Administrator\OneDrive\Escritorio\Libreria_clase\Libreria_clase\obj\Debug\net10.0\Libreria_clase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\OneDrive\Escritorio\Libreria_clase\Libreria_clase\obj\Debug\net10.0\Libreria_clase.AssemblyInfoInputs.cache
+C:\Users\Administrator\OneDrive\Escritorio\Libreria_clase\Libreria_clase\obj\Debug\net10.0\Libreria_clase.AssemblyInfo.cs
+C:\Users\Administrator\OneDrive\Escritorio\Libreria_clase\Libreria_clase\obj\Debug\net10.0\Libreria_clase.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\OneDrive\Escritorio\Libreria_clase\Libreria_clase\obj\Debug\net10.0\Libreria_clase.dll
+C:\Users\Administrator\OneDrive\Escritorio\Libreria_clase\Libreria_clase\obj\Debug\net10.0\refint\Libreria_clase.dll
+C:\Users\Administrator\OneDrive\Escritorio\Libreria_clase\Libreria_clase\obj\Debug\net10.0\Libreria_clase.pdb
+C:\Users\Administrator\OneDrive\Escritorio\Libreria_clase\Libreria_clase\obj\Debug\net10.0\ref\Libreria_clase.dll

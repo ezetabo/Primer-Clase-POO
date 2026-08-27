@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\OneDrive\\Escritorio\\Libreria_clase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1D63BE4-8C31-4A12-A0F4-2A1FB4F1D2DA}|Test_Auto\\Test_Auto.csproj|c:\\users\\administrator\\onedrive\\escritorio\\libreria_clase\\test_auto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1D63BE4-8C31-4A12-A0F4-2A1FB4F1D2DA}|Test_Auto\\Test_Auto.csproj|solutionrelative:test_auto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC623D09-A15B-47F1-A212-4A0A81083F86}|Libreria_clase\\Libreria_clase.csproj|c:\\users\\administrator\\onedrive\\escritorio\\libreria_clase\\libreria_clase\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC623D09-A15B-47F1-A212-4A0A81083F86}|Libreria_clase\\Libreria_clase.csproj|solutionrelative:libreria_clase\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Escritorio\\Libreria_clase\\Test_Auto\\Program.cs",
+              "RelativeDocumentMoniker": "Test_Auto\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Escritorio\\Libreria_clase\\Test_Auto\\Program.cs*",
+              "RelativeToolTip": "Test_Auto\\Program.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T22:21:35.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Auto.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Escritorio\\Libreria_clase\\Libreria_clase\\Auto.cs",
+              "RelativeDocumentMoniker": "Libreria_clase\\Auto.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Escritorio\\Libreria_clase\\Libreria_clase\\Auto.cs",
+              "RelativeToolTip": "Libreria_clase\\Auto.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAIwDUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T21:59:42.785Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

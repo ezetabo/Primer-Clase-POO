@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Libreria_clase/Libreria_clase.csproj" />
+  <Project Path="Test_Auto/Test_Auto.csproj" />
+</Solution>
